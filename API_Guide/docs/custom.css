@@ -1,0 +1,8 @@
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center the image horizontally within the div */
+    height: 100vh; /* Optional: Center the image vertically within the viewport */
+  }
+  
